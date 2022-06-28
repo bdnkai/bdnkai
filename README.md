@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://github.com/bdnkai/BNsPortfolio/blob/dev/assets/Resume-Brandon_Nguyen.pdf](https://github.com/bdnkai/BNsPortfolio/blob/dev/assets/Resume-Brandon_Nguyen.pdf)
 
-- ⚡ Fun fact **I love seeing my work fruition into reality, and I also laugh at my own jokes**<p>
+- ⚡ Fun fact **I love to laugh at my own jokes**<p>
 
 
 ---
