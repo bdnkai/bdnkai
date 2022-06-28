@@ -1,16 +1,10 @@
-
-[![bdnkai's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdnkai&show_icons=true&hide=contribs,issues&theme=dracula)](https://github.com/bdnkai/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdnkai&layout=compact)](https://github.com/bdnkai/github-readme-stats)
-
-
-
-
-
 <h1 align="center">Hi 👋, I'm Brandon Nguyen</h1>
 <h3 align="center">An inspired full-stack developer</h3>
 
+
+
 - 🌱 I’m currently learning **JavaScript, React, Node, Mongoose, Express**
+
 
 - 👨‍💻 All of my projects are available at [https://bdnkai.github.io/BNsPortfolio/](https://bdnkai.github.io/BNsPortfolio/)
 
@@ -21,6 +15,9 @@
 - 📄 Know about my experiences [https://github.com/bdnkai/BNsPortfolio/blob/dev/assets/Resume-Brandon_Nguyen.pdf](https://github.com/bdnkai/BNsPortfolio/blob/dev/assets/Resume-Brandon_Nguyen.pdf)
 
 - ⚡ Fun fact **I love seeing my work fruition into reality, and I also laugh at my own jokes**
+
+[![bdnkai's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdnkai&show_icons=true&hide=contribs,issues&theme=dracula)](https://github.com/bdnkai/github-readme-stats) </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdnkai&layout=compact)](https://github.com/bdnkai/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
