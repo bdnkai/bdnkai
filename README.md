@@ -1,4 +1,9 @@
+
 [![bdnkai's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdnkai&show_icons=true&hide=contribs,issues&theme=dracula)](https://github.com/bdnkai/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdnkai&layout=compact)](https://github.com/bdnkai/github-readme-stats)
+
+
 
 <!--
 **bdnkai/bdnkai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
